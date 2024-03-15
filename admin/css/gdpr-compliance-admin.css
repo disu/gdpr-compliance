@@ -1,0 +1,170 @@
+/* Settings pages */
+.gdpr-compliance-tab-content a, .scribit_credit a {
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.gdpr-compliance-tab-content a:hover, .scribit_credit a:hover {
+  opacity: .75;
+}
+
+.gdpr-compliance-tab-content a.button:hover {
+  background: #e3e5f6;
+}
+
+.gdpr-compliance-tab-content .button {
+  vertical-align: middle;
+}
+
+.logo {
+  float: left;
+  margin-right: 6px;
+}
+
+.logo img {
+  max-height: 55px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.note {
+  font-style: italic;
+  font-size: 85% !important;
+}
+
+.scribit_credit a {
+  background: transparent url(../images/logo_scribit.png) 0 0 no-repeat;
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  text-indent: 64px;
+  height: 32px;
+  width: 64px;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+
+.gdpr-compliance-tab-content .form-table th {
+  width: 300px;
+}
+
+.gdpr-compliance-tab-content .form-table td {
+  vertical-align: top;
+}
+
+.gdpr-compliance-tab-content .form-table table td {
+  padding: 3px 10px;
+}
+
+.gdpr-compliance-tab-content .form-table table .select_all_rules_row td {
+  padding-bottom: 15px;
+}
+
+/* Backend pages */
+.wp-core-ui .notice {
+  clear: left;
+}
+
+.gdpr-compliance .table-with-check-column td:nth-child(2), .gdpr-compliance .table-with-check-column th:nth-child(2) {
+  width: 25%;
+}
+
+.gdpr-compliance .table-with-check-column thead td:first-child, .gdpr-compliance .table-with-check-column thead th:first-child {
+  padding: 8px 4px 3px 3px;
+  width: 24px;
+}
+
+.gdpr-compliance table {
+  margin-bottom: 1em;
+}
+
+.gdpr-compliance table td {
+  vertical-align: middle;
+}
+
+.gdpr-compliance table td.long-column {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.gdpr-compliance .widefat td, .gdpr-compliance .widefat th {
+  padding: 6px 10px;
+}
+
+.gdpr-compliance table thead td p.col-hint {
+  font-size: 80%;
+  margin-bottom: 2px;
+}
+
+.gdpr-compliance table thead td input[type="text"] {
+  padding: 3px 5px;
+  margin-left: 0;
+}
+
+.gdpr-compliance table td input[type="text"] {
+  width: 100%;
+}
+
+.gdpr-compliance table tbody input {
+  vertical-align: middle;
+}
+
+.gdpr-compliance_error {
+  color: #900;
+}
+
+.gdpr-compliance_warning {
+  color: #C60;
+}
+
+.gdpr-compliance_success {
+  color: #090;
+}
+
+.gdpr-compliance-ads {
+  margin-top: 3em;
+  font-size: 120%;
+}
+
+/* Tabs bar */
+.gdpr-compliance-tab-content .wp-tab-bar {
+  margin-bottom: 1px;
+}
+
+.gdpr-compliance-tab-content .wp-tab-panel {
+  max-height: initial;
+}
+
+.gdpr-compliance-tab-content .wp-tab-bar li {
+  margin-bottom: -1px;
+  padding: 6px 0 5px;
+}
+
+.gdpr-compliance-tab-content .wp-tab-bar li a {
+  padding: 5px 10px;
+}
+
+.gdpr-compliance-tab-content .wp-tab-bar li a:hover {
+  padding-left: 10px;
+}
+
+.gdpr-compliance-tab-content .wp-tab-bar li a * {
+  display: inline;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.gdpr-compliance-tab-content #tabs-user thead td {
+  background-color: #C4C4F1;
+}
+
+.gdpr-compliance-tab-content #tabs-content thead td {
+  background-color: #FCE69F;
+}
+
+.gdpr-compliance-tab-content #tabs-other thead td {
+  background-color: #DAD9B1;
+}

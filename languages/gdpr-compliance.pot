@@ -1,0 +1,289 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GDPR Compliance\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-25 16:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/partials/gdpr-compliance-admin-display.php:116
+#, php-format
+msgctxt "%s = shortcode_name"
+msgid ""
+"Choose from the following lists the data fields and define the relative "
+"readable descriptions. Then use the <b>%s</b> shortcode to show the selected "
+"datas for logged in user."
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:37
+msgid "About"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:378
+msgid "Coming soon"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:439
+msgid "CONTACT US"
+msgstr ""
+
+#: admin/class-gdpr-compliance-admin - old_download.php:263
+msgid "Content ID"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:224
+#: admin/partials/gdpr-compliance-admin-display.php:318
+msgid "Content public description"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:223
+msgid "Content type"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:396
+#: admin/partials/gdpr-compliance-admin-display.php:407
+msgid "Custom message text for not logged users"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:406
+msgid "Custom text for download button"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:142
+#: admin/partials/gdpr-compliance-admin-display.php:179
+msgid "Data"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:174
+msgid "Data contained into [usermeta] table."
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:137
+msgid "Data contained into [users] table."
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:311
+msgid "Data contained into other tables."
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:217
+msgid "Data contained into posts tables."
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:143
+#: admin/partials/gdpr-compliance-admin-display.php:180
+msgid "Data description"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:225
+#: admin/partials/gdpr-compliance-admin-display.php:319
+msgid "Data example"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:317
+msgid "Database table"
+msgstr ""
+
+#: admin/class-gdpr-compliance-admin.php:283
+msgid "Date"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:396
+#: admin/partials/gdpr-compliance-admin-display.php:406
+#: admin/partials/gdpr-compliance-admin-display.php:407
+msgid "Default value"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:94
+msgid "Dismiss this notice."
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:434
+msgid "DONATE WITH PAYPAL"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:413
+#, php-format
+msgid ""
+"Download <a href=\"%s\" target=\"_blank\">Shortcodes Finder</a> to better "
+"manage shortcodes in your Wordpress site"
+msgstr ""
+
+#: public/class-gdpr-compliance-public.php:362
+#: admin/partials/gdpr-compliance-admin-display.php:406
+msgid "Download user data"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:144
+#: admin/partials/gdpr-compliance-admin-display.php:181
+msgid "Example"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-gdpr-compliance-admin - old_download.php:118
+#: admin/class-gdpr-compliance-admin - old_download.php:119
+#: admin/class-gdpr-compliance-admin.php:118
+#: admin/class-gdpr-compliance-admin.php:119
+#: admin/partials/gdpr-compliance-admin-display.php:26
+msgid "GDPR Compliance"
+msgstr ""
+
+#: admin/class-gdpr-compliance-admin - old_download.php:188
+#: admin/class-gdpr-compliance-admin.php:188
+msgid "GDPR Compliance is powered by"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:115
+msgid ""
+"GDPR Compliance plugin allows you to select the sensitive data to show to "
+"the user."
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:114
+msgid ""
+"GDPR law provides that user data must be accessible from himself and "
+"downloadable in electronic format."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.scribit.it/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.scribit.it/pages/wordpress/gdpr-compliance.html"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:426
+msgid "If you like our plugin please feel free to give us 5 stars :)"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:438
+msgid "If you want some information about our Company"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:432
+msgid "If you want to help us to improve our service please Donate a coffe"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:392
+msgid ""
+"Insert this shortcode into a public content (Post, Page or other) to show to "
+"logged user his personal data."
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:402
+msgid ""
+"Insert this shortcode into a public content to show to logged user a button "
+"for personal data download (CSV format)."
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:121
+msgid "Other data"
+msgstr ""
+
+#: admin/class-gdpr-compliance-admin - old_download.php:271
+msgid "Other informations"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:310
+msgid "Other table informations"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:216
+msgid "Posts table informations"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:382
+msgid "Save settings"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:92
+msgid "Saving Error."
+msgstr ""
+
+#. Author of the plugin
+msgid "Scribit"
+msgstr ""
+
+#: admin/class-gdpr-compliance-admin - old_download.php:160
+#: admin/class-gdpr-compliance-admin.php:160
+#: admin/partials/gdpr-compliance-admin-display.php:26
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:92
+msgid "Settings saved."
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:394
+#: admin/partials/gdpr-compliance-admin-display.php:404
+msgid "Shortcode parameters"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:34
+msgid "Shortcodes"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:423
+msgid "Support"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin helps webmasters to accomplish the european GDPR (data "
+"protection regulation) allowing users to manage their personal data."
+msgstr ""
+
+#: admin/class-gdpr-compliance-admin - old_download.php:235
+#: admin/class-gdpr-compliance-admin.php:339
+msgid "Title"
+msgstr ""
+
+#: admin/class-gdpr-compliance-admin.php:339
+msgid "URL"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:120
+msgid "User content"
+msgstr ""
+
+#: admin/class-gdpr-compliance-admin.php:226
+#: public/class-gdpr-compliance-public.php:135
+#: admin/partials/gdpr-compliance-admin-display.php:119
+#: admin/partials/gdpr-compliance-admin-display.php:390
+msgid "User data"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:400
+msgid "User data download"
+msgstr ""
+
+#: public/class-gdpr-compliance-public.php:364
+#: admin/partials/gdpr-compliance-admin-display.php:407
+msgid "User must be logged to download his data"
+msgstr ""
+
+#: public/class-gdpr-compliance-public.php:112
+#: admin/partials/gdpr-compliance-admin-display.php:396
+msgid "User must be logged to see his data"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:31
+msgid "Users Data"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:124
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/partials/gdpr-compliance-admin-display.php:428
+msgid "WRITE A PLUGIN REVIEW"
+msgstr ""
